@@ -52,9 +52,9 @@ models:
             type: object
             label: Social
             fields:
-              - name: github
+              - name: facebook
                 type: string
-                label: Github Link
+                label: Facebook Link
               - name: twitter
                 type: string
                 label: Twitter Link
